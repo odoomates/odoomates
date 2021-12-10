@@ -37,6 +37,4 @@
 </p>
 
 ![GitHub repo size](https://github-size-badge.herokuapp.com/odoomates/odooapps.svg)
-![GitHub language count](https://img.shields.io/github/languages/count/odoomates/REPOSITORY?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/odoomates/REPOSITORY?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/odoomates/REPOSITORY?color=red&style=plastic)
+
