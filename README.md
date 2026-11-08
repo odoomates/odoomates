@@ -54,6 +54,31 @@ Chrome and Firefox extensions that work on any Odoo database:
 - **[YouTube](https://www.youtube.com/c/OdooMates?sub_confirmation=1)**: subscribe to the channel for new tutorials.
 - **[LinkedIn](https://www.linkedin.com/in/odoomates/)**: follow Odoo Mates for news and new apps.
 
+## How we can help you
+
+<p align="center">
+  <a href="mailto:odoomates@gmail.com"><img src="assets/help-banner.png" alt="How we can help you: write to odoomates@gmail.com, email is our main channel" width="100%"/></a>
+</p>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="assets/help-developers.png" alt="Developers starting out" width="100%"/>
+      <p><b>Starting out or new to Odoo?</b> Share your thoughts, ask for guidance or tell us what you are stuck on. Begin with the <a href="https://www.youtube.com/c/OdooMates">YouTube tutorials</a> and <a href="https://github.com/odoomates/Development-Tutorials">Development-Tutorials</a>, then write to us: we are happy to point you in the right direction.</p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="assets/help-consultants.png" alt="Consultants and partners" width="100%"/>
+      <p><b>Looking for an app for a client?</b> Want one of our apps to do more, or something missing in Odoo? Tell us what you need: a new app, an improvement or a missing feature.</p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="assets/help-businesses.png" alt="Businesses and end users" width="100%"/>
+      <p><b>Running Odoo in your business?</b> Need help with an implementation, a migration or upgrade to a newer Odoo version, or troubleshooting something that does not work? Tell us about your project and we will get back to you.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><b>Write to us at <a href="mailto:odoomates@gmail.com">odoomates@gmail.com</a></b>: email is our main channel, and we read every message.</p>
+
 ## Let's talk
 
 We love to help, and to hear what you think. Stuck on something in Odoo, have an idea, or just want to talk Odoo? Connect with us:
@@ -65,6 +90,7 @@ We love to help, and to hear what you think. Stuck on something in Odoo, have an
 
 ## Get in touch
 
-- Questions or bugs: open an [issue on odooapps](https://github.com/odoomates/odooapps/issues) or write to [odoomates@gmail.com](mailto:odoomates@gmail.com).
+- **Email (main channel)**: [odoomates@gmail.com](mailto:odoomates@gmail.com).
+- Bugs in an app: open an [issue on odooapps](https://github.com/odoomates/odooapps/issues).
 - Follow us on [YouTube](https://www.youtube.com/c/OdooMates), [LinkedIn](https://www.linkedin.com/in/odoomates/) and [Facebook](https://www.facebook.com/odoo.mates/).
 - Like the free apps? [Buy us a coffee](https://ko-fi.com/odoomates).
