@@ -15,7 +15,7 @@
 
 ## Odoo apps
 
-**[odooapps](https://github.com/odoomates/odooapps)**: our main collection of free modules, one branch per Odoo version from 10.0 to 20.0. Every app is LGPL-3 and also on the [Odoo Apps Store](https://apps.odoo.com/apps/modules/browse?author=Odoo%20Mates).
+**[odooapps](https://github.com/odoomates/odooapps)**: our main collection of free modules, one branch per Odoo version from 10.0 to 20.0. All open source (LGPL-3 or AGPL-3) and also on the [Odoo Apps Store](https://apps.odoo.com/apps/modules/browse?author=Odoo%20Mates).
 
 | Area | Apps |
 |---|---|
