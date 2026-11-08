@@ -39,11 +39,32 @@ Chrome and Firefox extensions that work on any Odoo database:
 
 ## Learn Odoo
 
-- **[YouTube channel](https://www.youtube.com/c/OdooMates)**: functional and technical Odoo tutorials, from the first module to advanced development.
+- **[YouTube channel](https://www.youtube.com/c/OdooMates)**: functional and technical Odoo tutorials, from the first module to advanced development. **[Subscribe](https://www.youtube.com/c/OdooMates?sub_confirmation=1)** so you don't miss the next one.
 - **[Development-Tutorials](https://github.com/odoomates/Development-Tutorials)** and **[odoosamples](https://github.com/odoomates/odoosamples)**: the code of the tutorials and useful samples.
+
+## Join the community
+
+<p>
+  <a href="https://chat.whatsapp.com/HWUt4r8mcboGDMmUvmku13"><img src="https://img.shields.io/badge/WhatsApp-Join%20the%20community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp community"/></a>
+  <a href="https://www.youtube.com/c/OdooMates?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"/></a>
+  <a href="https://www.linkedin.com/in/odoomates/"><img src="https://img.shields.io/badge/LinkedIn-Odoo%20Mates-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Odoo Mates on LinkedIn"/></a>
+</p>
+
+- **[WhatsApp community](https://chat.whatsapp.com/HWUt4r8mcboGDMmUvmku13)**: ask questions, share what you build and learn Odoo with others.
+- **[YouTube](https://www.youtube.com/c/OdooMates?sub_confirmation=1)**: subscribe to the channel for new tutorials.
+- **[LinkedIn](https://www.linkedin.com/in/odoomates/)**: follow Odoo Mates for news and new apps.
+
+## Let's talk
+
+We love to help, and to hear what you think. Stuck on something in Odoo, have an idea, or just want to talk Odoo? Connect with us:
+
+- **Niyas Raphy**: [linkedin.com/in/niyasraphy](https://www.linkedin.com/in/niyasraphy/)
+- **Mehjabin Farsana**: [linkedin.com/in/mehjabinfarsana](https://www.linkedin.com/in/mehjabinfarsana/)
+
+**Does one of our apps need an enhancement?** Tell us what is missing or what could work better: open an [issue on odooapps](https://github.com/odoomates/odooapps/issues), write to [odoomates@gmail.com](mailto:odoomates@gmail.com) or post in the WhatsApp community. We are open to any idea.
 
 ## Get in touch
 
-- Questions, bugs or ideas for an app: open an [issue on odooapps](https://github.com/odoomates/odooapps/issues) or write to [odoomates@gmail.com](mailto:odoomates@gmail.com).
+- Questions or bugs: open an [issue on odooapps](https://github.com/odoomates/odooapps/issues) or write to [odoomates@gmail.com](mailto:odoomates@gmail.com).
 - Follow us on [YouTube](https://www.youtube.com/c/OdooMates), [LinkedIn](https://www.linkedin.com/in/odoomates/) and [Facebook](https://www.facebook.com/odoo.mates/).
 - Like the free apps? [Buy us a coffee](https://ko-fi.com/odoomates).
