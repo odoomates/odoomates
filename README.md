@@ -54,6 +54,19 @@ Chrome and Firefox extensions that work on any Odoo database:
 - **[YouTube](https://www.youtube.com/c/OdooMates?sub_confirmation=1)**: subscribe to the channel for new tutorials.
 - **[LinkedIn](https://www.linkedin.com/in/odoomates/)**: follow Odoo Mates for news and new apps.
 
+## How we can help you
+
+Write to us at **[odoomates@gmail.com](mailto:odoomates@gmail.com)**: email is our main channel, and we read every message.
+
+### Developers: starting out or new to Odoo
+Learning Odoo development, or looking for your first steps? Share your thoughts, ask for guidance or tell us what you are stuck on. Start with the [YouTube tutorials](https://www.youtube.com/c/OdooMates) and [Development-Tutorials](https://github.com/odoomates/Development-Tutorials), then write to us: we are happy to point you in the right direction.
+
+### Consultants and partners
+Looking for an app for a client, want one of our apps to do more, or something missing in Odoo? Let us know what you need: a new app, an improvement or a missing feature.
+
+### Businesses and end users
+Need help with an implementation, a migration or upgrade to a newer Odoo version, or troubleshooting something that does not work? Tell us about your project and we will get back to you.
+
 ## Let's talk
 
 We love to help, and to hear what you think. Stuck on something in Odoo, have an idea, or just want to talk Odoo? Connect with us:
@@ -65,6 +78,7 @@ We love to help, and to hear what you think. Stuck on something in Odoo, have an
 
 ## Get in touch
 
-- Questions or bugs: open an [issue on odooapps](https://github.com/odoomates/odooapps/issues) or write to [odoomates@gmail.com](mailto:odoomates@gmail.com).
+- **Email (main channel)**: [odoomates@gmail.com](mailto:odoomates@gmail.com).
+- Bugs in an app: open an [issue on odooapps](https://github.com/odoomates/odooapps/issues).
 - Follow us on [YouTube](https://www.youtube.com/c/OdooMates), [LinkedIn](https://www.linkedin.com/in/odoomates/) and [Facebook](https://www.facebook.com/odoo.mates/).
 - Like the free apps? [Buy us a coffee](https://ko-fi.com/odoomates).
